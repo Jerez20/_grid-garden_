@@ -339,3 +339,10 @@
     grid-column: 1;
     grid-row: 1;
   };
+
+  /* Nivel 28 */
+
+  #garden {
+    display: grid;
+      grid-template: 1fr 50px/20% 80%;
+  };
