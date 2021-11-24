@@ -274,3 +274,11 @@
     grid-column: 1;
     grid-row: 1;
   };
+
+  /* Nivel 22 */
+  
+  #garden {
+    display: grid;
+        grid-template-columns: 100px 3em 40%;
+       grid-template-rows: 20% 20% 20% 20% 20%;
+  };
