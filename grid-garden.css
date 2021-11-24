@@ -327,3 +327,15 @@
     grid-column: 1 / 6;
     grid-row: 5 / 6;
   };
+
+  /* Nivel 27 */
+  
+  #garden {
+    display: grid;
+       grid-template: 60%/200px;
+      }
+  
+  #water {
+    grid-column: 1;
+    grid-row: 1;
+  };
